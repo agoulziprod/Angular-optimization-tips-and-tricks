@@ -1,6 +1,12 @@
 # Angular-optimization-tips-and-tricks
 
-Video:[https://www.linkedin.com/posts/dmezhenskyi_ngzoneeventcoalescing-activity-6998293124355620864-P1Gg?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/dmezhenskyi_ngzoneeventcoalescing-activity-6998293124355620864-P1Gg?utm_source=share&utm_medium=member_desktop) 
+Video:
+
+[![Angular-optimization-tips-and-tricks by AGOULZI Mohamed at blablaconf ](https://img.youtube.com/vi/nRn7Rs7QrVY/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/nRn7Rs7QrVY?t=9622))
+
+
+
+[https://www.linkedin.com/posts/dmezhenskyi_ngzoneeventcoalescing-activity-6998293124355620864-P1Gg?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/dmezhenskyi_ngzoneeventcoalescing-activity-6998293124355620864-P1Gg?utm_source=share&utm_medium=member_desktop) 
 
 
 [https://web.dev/performance-scoring/?utm_source=lighthouse&utm_medium=devtools](https://web.dev/performance-scoring/?utm_source=lighthouse&utm_medium=devtools) 
