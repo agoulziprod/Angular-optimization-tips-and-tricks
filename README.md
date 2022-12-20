@@ -5,7 +5,7 @@ Presentation in moroccan darija
 
 ## Video:
 
-[![Angular-optimization-tips-and-tricks by AGOULZI Mohamed at blablaconf ](https://img.youtube.com/vi/nRn7Rs7QrVY/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/nRn7Rs7QrVY?t=9622))
+[![Angular-optimization-tips-and-tricks by AGOULZI Mohamed at blablaconf ](https://img.youtube.com/vi/nRn7Rs7QrVY/0.jpg)](https://youtu.be/nRn7Rs7QrVY?t=9622))
 
 ### Slides
 PDF
