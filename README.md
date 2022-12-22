@@ -8,7 +8,7 @@ Presentation in moroccan darija
 [![Angular-optimization-tips-and-tricks by AGOULZI Mohamed at blablaconf ](https://img.youtube.com/vi/nRn7Rs7QrVY/0.jpg)](https://youtu.be/nRn7Rs7QrVY?t=9622))
 
 ### Slides
-PDF
+[PDF](https://github.com/agoulziprod/Angular-optimization-tips-and-tricks/blob/main/blablaconf%20-%20NG%20optimization%20-AGOULZI%20mohamed.pdf)
 
 ### Ressources
 
