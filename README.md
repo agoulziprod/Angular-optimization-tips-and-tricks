@@ -1,7 +1,7 @@
 # Angular-optimization-tips-and-tricks
-My presentation about some tips to speed up your angular application at blablaconf
+My 20 min presentation on some tips to speed up your angular application at blablaconf
 
-Presentation in moroccan darija
+Presentation in Moroccan Darija
 
 ## Video:
 
